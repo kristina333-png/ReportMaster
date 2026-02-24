@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\winformsapp3\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\winformsapp3\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\winformsapp3\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\winformsapp3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\wastes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\wastes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\income.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\income.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\admin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\admin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\prepod\\downloads\\winformsapp3 (2)\\winformsapp3\\winformsapp3\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A71706-A0A1-4F4D-B818-40E0698250D4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wastes.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Wastes.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Wastes.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Wastes.cs",
+              "RelativeToolTip": "WinFormsApp3\\Wastes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:19:15.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.resx",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.resx",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Admin.resx",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.resx",
+              "RelativeToolTip": "WinFormsApp3\\Admin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-17T06:16:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "information.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\information.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\information.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\information.cs",
+              "RelativeToolTip": "WinFormsApp3\\information.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:15:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Income.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Income.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Income.Designer.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Income.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Income.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:15:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Income.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Income.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Income.cs",
+              "RelativeToolTip": "WinFormsApp3\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:14:49.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\main.Designer.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:37:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.resx",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.resx",
+              "RelativeDocumentMoniker": "WinFormsApp3\\main.resx",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.resx",
+              "RelativeToolTip": "WinFormsApp3\\main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-17T05:37:27.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:36:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "information.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\information.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\information.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\information.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp3\\information.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:19:28.06Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\main.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.cs",
+              "RelativeToolTip": "WinFormsApp3\\main.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:10:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:21:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Admin.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp3\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:34:42.135Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\main.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp3\\main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:13:00.99Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "reg.cs",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\reg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\reg.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\reg.cs",
+              "RelativeToolTip": "WinFormsApp3\\reg.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:07:44.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:25:41.305Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reg.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\reg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\reg.cs",
+              "ToolTip": "C:\\Users\\prepod\\Downloads\\WinFormsApp3 (2)\\WinFormsApp3\\WinFormsApp3\\reg.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp3\\reg.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:01:05.235Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
