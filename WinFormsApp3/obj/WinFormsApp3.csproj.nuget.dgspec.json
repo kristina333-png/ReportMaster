@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\WinFormsApp3.csproj": {}
+    "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\WinFormsApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\WinFormsApp3.csproj": {
+    "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\WinFormsApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\WinFormsApp3.csproj",
         "projectName": "WinFormsApp3",
-        "projectPath": "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectPath": "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\WinFormsApp3.csproj",
         "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\obj\\",
+        "outputPath": "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

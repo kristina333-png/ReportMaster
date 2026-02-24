@@ -18,31 +18,26 @@ namespace WinFormsApp3
         private void SwitchToForm(Form form)
         {
             this.Hide();
-            form.FormClosed += (s, args) => this.Show(); 
+            form.FormClosed += (s, args) => this.Close();
             form.Show();
         }
 
-        private int GetUserId(string login, string password)
+        private bool IsLoginCorrect(string login, string password)
         {
             using (SqlConnection connection = new SqlConnection(connect))
             {
                 connection.Open();
-                string sql = "SELECT ID FROM Userb WHERE login = @login AND password = @password";
+                string sql = "SELECT COUNT(*) FROM Userb WHERE login = @login AND password = @password";
 
                 using (SqlCommand command = new SqlCommand(sql, connection))
                 {
                     command.Parameters.AddWithValue("@login", login);
                     command.Parameters.AddWithValue("@password", password);
                     var result = command.ExecuteScalar();
-                    if (result != null && result != DBNull.Value)
-                    {
-                        return Convert.ToInt32(result);
-                    }
-                    return -1;
+                    return result != null && Convert.ToInt32(result) > 0;
                 }
             }
         }
-        
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
@@ -60,17 +55,15 @@ namespace WinFormsApp3
             {
                 MessageBox.Show("Добро пожаловать, Администратор!", "Админ панель",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
-                SwitchToForm(new admin2());
-                return;
+                SwitchToForm(new Admin());
+                return; 
             }
-            int userId = GetUserId(login, password);
-            if (userId > 0)
+
+            if (IsLoginCorrect(login, password))
             {
                 MessageBox.Show("Успешный вход!", "Успех",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-
-                SwitchToForm(new main2(userId));
+                SwitchToForm(new main());
             }
             else
             {
@@ -78,17 +71,6 @@ namespace WinFormsApp3
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
-        private void btnViewHistory_Click(object sender, EventArgs e)
-        {
-           
-            int testUserId = 1;
-            information infoForm = new information(testUserId);
-            infoForm.Show();
-        }
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 
-}
+    }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsn6bjXE4uY=",
+  "dgSpecHash": "M7MYHRrrNa8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\krist\\OneDrive\\Desktop\\WinFormsApp3656e\\WinFormsApp3\\WinFormsApp3.csproj",
+  "projectFilePath": "C:\\Users\\krist\\OneDrive\\Desktop\\ReportMaster\\WinFormsApp3\\WinFormsApp3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krist\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\krist\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
