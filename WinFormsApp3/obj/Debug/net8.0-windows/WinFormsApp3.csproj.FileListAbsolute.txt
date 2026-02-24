@@ -1,0 +1,302 @@
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.reg.resources
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.main.resources
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Admin.resources
+C:\Users\krist\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.information.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Admin.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.information.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.main.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.reg.resources
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\prepod\Downloads\WinFormsApp3 (2)\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Admin.resources
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.main.resources
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.reg.resources
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\prepod\Desktop\WinFormsApp36\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.admin2.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Income.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.information.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.main2.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.reg.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Wastes.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656\WinFormsApp3656\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.admin2.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Income.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.information.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.main2.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.reg.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Wastes.resources
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Desktop\WinFormsApp3656e\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
