@@ -40,50 +40,62 @@ ReportMaster — это десктопное приложение с графи�
 - **Хранение данных**: SQL Server Management 
 - **Система контроля версий**: Git + GitHub
 
-### Структура проекта (предварительно)
+## 📁 Структура проекта
+
+```
 WinFormsApp3/
 │
-├── Program.cs                    # Точка входа
-├── WinFormsApp3.csproj           # Файл проекта
+├── 📄 Program.cs                          # Точка входа
+├── 📄 WinFormsApp3.csproj                  # Файл проекта
 │
-├── 📂 Авторизация и регистрация (Денис)
-│   ├── Form1.cs                  # Форма входа
-│   ├── Form1.Designer.cs
-│   ├── reg.cs                     # Форма регистрации
-│   └── reg.Designer.cs
+├── 📂 Авторизация и регистрация            # Денис
+│   ├── 📄 Form1.cs                         # Форма входа
+│   ├── 📄 Form1.Designer.cs
+│   ├── 📄 reg.cs                            # Форма регистрации
+│   └── 📄 reg.Designer.cs
 │
-├── 📂 Главное окно и админка (Данилл Григорьев)
-│   ├── main2.cs                   # Главное окно с вкладками
-│   ├── main2.Designer.cs
-│   ├── admin2.cs                   # Админ-панель
-│   └── admin2.Designer.cs
+├── 📂 Главное окно и админка                # Данилл Григорьев
+│   ├── 📄 main2.cs                          # Главное окно с вкладками
+│   ├── 📄 main2.Designer.cs
+│   ├── 📄 admin2.cs                          # Админ-панель
+│   └── 📄 admin2.Designer.cs
 │
-├── 📂 Формы добавления (Кристина|Данилл Зеленов)
-│   ├── Income.cs                   # Добавление дохода
-│   ├── Income.Designer.cs
-│   ├── Wastes.cs                    # Добавление расхода
-│   ├── Wastes.Designer.cs
-│   ├── AddTask.cs                   # Добавление задачи
-│   ├── AddTask.Designer.cs
-│   ├── AddEvent.cs                  # Добавление события
-│   └── AddEvent.Designer.cs
+├── 📂 Формы добавления                       # Кристина | Данилл Зеленов
+│   ├── 📄 Income.cs                          # Добавление дохода
+│   ├── 📄 Income.Designer.cs
+│   ├── 📄 Wastes.cs                           # Добавление расхода
+│   ├── 📄 Wastes.Designer.cs
+│   ├── 📄 AddTask.cs                          # Добавление задачи
+│   ├── 📄 AddTask.Designer.cs
+│   ├── 📄 AddEvent.cs                         # Добавление события
+│   └── 📄 AddEvent.Designer.cs
 │
-├── 📂 Формы редактирования (Кристина|Данилл Зеленов)
-│   ├── EditFinance.cs               # Редактирование финансов
-│   ├── EditFinance.Designer.cs
-│   ├── EditTask.cs                   # Редактирование задачи
-│   ├── EditTask.Designer.cs
-│   ├── EditEvent.cs                  # Редактирование события
-│   └── EditEvent.Designer.cs
+├── 📂 Формы редактирования                    # Кристина | Данилл Зеленов
+│   ├── 📄 EditFinance.cs                      # Редактирование финансов
+│   ├── 📄 EditFinance.Designer.cs
+│   ├── 📄 EditTask.cs                          # Редактирование задачи
+│   ├── 📄 EditTask.Designer.cs
+│   ├── 📄 EditEvent.cs                         # Редактирование события
+│   └── 📄 EditEvent.Designer.cs
 │
-├── 📂 Дополнительные формы (Кристина|Данилл Григорьев)
-│   ├── information.cs                # История финансов
-│   └── information.Designer.cs
+├── 📂 Дополнительные формы                    # Кристина | Данилл Григорьев
+│   ├── 📄 information.cs                       # История финансов
+│   └── 📄 information.Designer.cs
 │
 └── 📂 База данных (SQL Server)
-    ├── Таблицы:
-    │   ├── Userb                    # Пользователи
-    │   ├── financial_operations      # Доходы/расходы
-    │   ├── Tasks                     # Задачи
-    │   └── Events                    # События
-    └── Строка подключения: "Server=localhost\SQLEXPRESS;Database=people;..."
+    │
+    ├── 📋 Таблицы:
+    │   ├── 🗄️ Userb                           # Пользователи
+    │   ├── 🗄️ financial_operations             # Доходы/расходы
+    │   ├── 🗄️ Tasks                            # Задачи
+    │   └── 🗄️ Events                           # События
+    │
+    └── 🔌 Строка подключения:
+        ```
+        Server=localhost\SQLEXPRESS;
+        Database=people;
+        Trusted_Connection=true;
+        TrustServerCertificate=true;
+        ```
+```
+
